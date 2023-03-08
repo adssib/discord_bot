@@ -18,4 +18,4 @@ class MyClient(discord.Client):
         await before.channel.send(fmt.format(before, after))
 
 client = MyClient()
-client.run('ODQ3MDUxOTIxMzM5NzExNDk4.YK4ckw.17dkDCEg2jnY4lCVN2MRrBD2mNA')
+client.run('TOKEN')
